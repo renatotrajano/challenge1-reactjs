@@ -18,7 +18,7 @@ function App() {
           Repositório 1
 
           <button onClick={() => handleRemoveRepository(1)}>
-            Remover
+            Remover test
           </button>
         </li>
       </ul>
